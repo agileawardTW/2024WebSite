@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
+@import "bootstrap/scss/functions";
+// @import './variable/variables-dark';
+@import './variable/variables';
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+@import 'bootstrap';
+
+
 @import './layout/header.scss';
 @import './layout/footer.scss';
-
 
 @import './pages/index.scss';
